@@ -1,2 +1,2 @@
-# nodewithsql
-Node application with SQL
+# nodewithmongo
+Node application with mongoDB
